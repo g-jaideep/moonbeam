@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["XcmTransactorPrecompileV1Call"],"struct":["XcmTransactorPrecompileV1"]};

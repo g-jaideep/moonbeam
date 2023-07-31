@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CALL_DATA_LIMIT"],"enum":["ProxyPrecompileCall"],"struct":["EvmSubCall","OnlyIsProxy","OnlyIsProxyAndProxy","ProxyPrecompile"],"trait":["EvmProxyCallFilter"]};

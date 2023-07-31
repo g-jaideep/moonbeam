@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["SELECTOR_LOG_CLOSED","SELECTOR_LOG_EXECUTED","SELECTOR_LOG_PROPOSED","SELECTOR_LOG_VOTED"],"enum":["CollectivePrecompileCall"],"fn":["hash","log_closed","log_executed","log_proposed","log_voted"],"struct":["CollectivePrecompile"]};

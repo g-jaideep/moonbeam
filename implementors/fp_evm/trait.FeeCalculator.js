@@ -1,5 +1,5 @@
-(function() {var implementors = {};
-implementors["moonbase_runtime"] = [{"text":"impl FeeCalculator for <a class=\"struct\" href=\"moonbase_runtime/struct.FixedGasPrice.html\" title=\"struct moonbase_runtime::FixedGasPrice\">FixedGasPrice</a>","synthetic":false,"types":["moonbase_runtime::FixedGasPrice"]}];
-implementors["moonbeam_runtime"] = [{"text":"impl FeeCalculator for <a class=\"struct\" href=\"moonbeam_runtime/struct.FixedGasPrice.html\" title=\"struct moonbeam_runtime::FixedGasPrice\">FixedGasPrice</a>","synthetic":false,"types":["moonbeam_runtime::FixedGasPrice"]}];
-implementors["moonriver_runtime"] = [{"text":"impl FeeCalculator for <a class=\"struct\" href=\"moonriver_runtime/struct.FixedGasPrice.html\" title=\"struct moonriver_runtime::FixedGasPrice\">FixedGasPrice</a>","synthetic":false,"types":["moonriver_runtime::FixedGasPrice"]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
+(function() {var implementors = {
+"moonbase_runtime":[["impl FeeCalculator for <a class=\"struct\" href=\"moonbase_runtime/struct.TransactionPaymentAsGasPrice.html\" title=\"struct moonbase_runtime::TransactionPaymentAsGasPrice\">TransactionPaymentAsGasPrice</a>"]],
+"moonbeam_runtime":[["impl FeeCalculator for <a class=\"struct\" href=\"moonbeam_runtime/struct.TransactionPaymentAsGasPrice.html\" title=\"struct moonbeam_runtime::TransactionPaymentAsGasPrice\">TransactionPaymentAsGasPrice</a>"]],
+"moonriver_runtime":[["impl FeeCalculator for <a class=\"struct\" href=\"moonriver_runtime/struct.TransactionPaymentAsGasPrice.html\" title=\"struct moonriver_runtime::TransactionPaymentAsGasPrice\">TransactionPaymentAsGasPrice</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

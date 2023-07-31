@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["vrf","VRF Key type, which is sr25519"]],"trait":[["KeysLookup","A Trait to lookup keys from AuthorIds"]]});
+window.SIDEBAR_ITEMS = {"mod":["digest","inherent","vrf"],"trait":["KeysLookup"]};

@@ -1,1 +1,1 @@
-initSidebarItems({"enum":[["Action",""]],"struct":[["AuthorMappingWrapper","A precompile to wrap the functionality from pallet author mapping."]]});
+window.SIDEBAR_ITEMS = {"enum":["AuthorMappingPrecompileCall"],"struct":["AuthorMappingPrecompile","GetKeysSize"]};

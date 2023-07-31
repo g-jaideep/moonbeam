@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["pallet","types","vrf","weights"],"trait":["GetBabeData"]};
